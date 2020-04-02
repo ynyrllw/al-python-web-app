@@ -1,0 +1,10 @@
+uWSGI
+django
+django-extensions
+django-filter
+djangorestframework
+djangorestframework-jwt
+django-cors-headers
+django-mptt
+psycopg2
+django-international
